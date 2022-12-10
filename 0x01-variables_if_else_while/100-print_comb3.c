@@ -22,7 +22,7 @@ int main(void)
 			{
 				putchar('0' + y);
 				putchar('0' + x);
-	
+
 				if (x + y != 17)
 				{
 					putchar(44);
