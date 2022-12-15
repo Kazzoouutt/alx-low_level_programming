@@ -12,6 +12,8 @@ int largest_number(int a, int b, int c)
 {
 	int largest;
 
+	scanf("%d %d %d", &a, &b, &c)
+
 	if ((a > b && b > c) || (a > c && c > b))
 	{
 		largest = a;
