@@ -1,0 +1,1 @@
+This directory contains tasks that are based on functions, prototypes and nested loops. We have to create a main.h file containing the prototypes and a main.c file definging the functions in the prootype before going ahead to write a script that carries out the tasks.
