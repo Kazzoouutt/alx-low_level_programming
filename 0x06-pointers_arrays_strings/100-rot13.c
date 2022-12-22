@@ -1,5 +1,4 @@
 #include "main.h"
-#include <stdio.h>
 
 /**
  * rot13 - for encoding a string
@@ -22,7 +21,7 @@ char *rot13(char *s)
 
 		if ((s[i] >= 'n' && s[i] <= 'z') || (s[i] >= 'N' && s[i] <= 'Z'))
 			s[i] -= 13;
-			i++;
+		i++;
 	}
 
 	return (s);

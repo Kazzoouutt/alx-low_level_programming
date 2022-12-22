@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include "main.h"
 
 /**
@@ -25,7 +24,7 @@ char *leet(char *s)
 		{
 			if (s[i] == lt[z][0])
 				s[i] = lt[z][1];
-				z++;
+			z++;
 		}
 		z = 0;
 		i++;
