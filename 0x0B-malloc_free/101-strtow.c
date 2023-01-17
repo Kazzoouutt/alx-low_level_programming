@@ -14,7 +14,7 @@ char **strtow(char *str);
  * to by str.
  */
 
-int world_len(char *str)
+int word_len(char *str)
 {
 	int index = 0, len = 0;
 
