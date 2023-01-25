@@ -3,7 +3,7 @@
 
 /**
  * Author: Kazzoouutt
- * File: this defines a macro named PI as an
+ * Description - Header file that defines a macro named PI as an
  * abbreviation for the token 3.14159265359.
  */
 

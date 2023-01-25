@@ -3,7 +3,7 @@
 
 /**
  * Author: Kazzouutt
- * Description: Header file that defines a funtion-like macro
+ * Description - Header file that defines a funtion-like macro
  * SUM(x, y) that computes all the sums of the numbers x and y.
  */
 
