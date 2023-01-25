@@ -7,6 +7,6 @@
  * @x: The number whose absolute value is to be assessed.
  */
 
-#define ABS(x) ((x) < 0) ? -(x) : (x)
+#define ABS(x) (((x) < 0) ? -(x) : (x))
 
 #endif
