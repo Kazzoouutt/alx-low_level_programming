@@ -4,7 +4,6 @@
 #include <stdlib.h>
 
 /**
- * Author: Kazzoouutt
  * Description - Header file containing all the prototype functions
  * used for completing the pointers to functions tasks.
  */
