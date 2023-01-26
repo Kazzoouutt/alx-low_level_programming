@@ -1,10 +1,11 @@
 #ifndef FUNCTION_POINTERS_H
 #define FUNCTION_POINTERS_H
+
 #include <stddef.h>
 #include <stdlib.h>
 
 /**
- * Description - Header file containing all the prototype functions
+ * Descr - Header file containing all the prototype function
  * used for completing the pointers to functions tasks.
  */
 
