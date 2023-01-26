@@ -7,6 +7,7 @@
  * used for completing the pointers to functions tasks.
  */
 
+#include <stdio.h>
 #include <stdlib.h>
 #include <stddef.h>
 
