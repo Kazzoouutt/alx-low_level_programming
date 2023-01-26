@@ -11,6 +11,8 @@
  * struct op - A struct op.
  * @op: The operator.
  * @f: The associated function.
+ * @a: The first number
+ * @b: The second number
  */
 
 typedef struct op
